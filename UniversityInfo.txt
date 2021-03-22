@@ -1,0 +1,15 @@
+Name: Turin Polythecnic University in Tashkent
+Faculties: Mechanical Engeneering, Information Technologies, Civil Engeneering
+Exams: Mathematics, English language, Physics, Logics
+Address: Кичик Халка йули 17, Ташкент
+Email: info@polito.uz
+Phone: +998 71 246 80 51
+end
+
+Name: Westminster
+Faculties: Business and economics,  Law
+Exams: Mathematics, English language
+Address: Улица Амира темура 65, Ташкент
+Email: info@westminster.uz
+Phone: +998 71 241 60 11
+end
